@@ -1,0 +1,2 @@
+CMake Error: The source directory "C:/Users/Lenovo/AndroidStudioProjects/BookletScanner/mylibrary/src/main/jni" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
